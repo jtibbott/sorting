@@ -1,8 +1,6 @@
 from random import randint
 import time
 
-
-
 def partition(start, end, array):
     pivot_index = start
     pivot = array[pivot_index]
